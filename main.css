@@ -1,0 +1,18 @@
+#Why {
+    border: 5px solid springgreen;
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+}
+.NFT {
+    font-family: Luminari, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#Sleep {
+    border: 2px solid yellow;
+    height: fit-content;
+    width: fit-content;
+}
+h1 {
+    background-color: aquamarine;
+}
